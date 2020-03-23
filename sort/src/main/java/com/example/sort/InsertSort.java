@@ -15,6 +15,8 @@ public class InsertSort {
 
     }
 
+
+
     //把一个数 和 一个有序数列的末尾数 做比较，大的在后面，小的往前插
 
     private static int[] insertSort(int[] a){
